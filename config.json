@@ -1,4 +1,4 @@
 {
-  "enabled": false,
-  "message": "Please contact @fubukiii01 to complete the server payment in order to resume the service."
+  "enabled": true,
+  "message": "Hello."
 }
